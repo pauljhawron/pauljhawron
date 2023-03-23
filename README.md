@@ -8,7 +8,9 @@
 
 ### Hi there 👋
 
-I'm Paul, a data scientist and software developer who loves learning about everything from sports analytics to blockchain development. I'm also an early dark horse candidate for the 2036 US Presidential election. Welcome to my GitHub page, full of miscellaneous projects that I've put some time into over the years. If you want to learn more about my professional journey, check out my [LinkedIn](https://www.linkedin.com/in/pauljhawron/).
+I'm Paul, a data scientist and software developer who loves learning about everything from sports analytics to blockchain development. I'm also an early dark horse candidate for the 2036 US Presidential election. 
+
+Welcome to my GitHub page, full of miscellaneous projects that I've put some time into over the years. If you want to learn more about my professional journey, check out my [LinkedIn](https://www.linkedin.com/in/pauljhawron/).
 
 
 
