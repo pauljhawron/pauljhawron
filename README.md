@@ -8,7 +8,8 @@
 
 </div>
 
-### Hi there 👋
+### 👋 About Me
+---
 
 I'm Paul, a data scientist and software developer who loves learning about everything from sports analytics to blockchain development. Welcome to my GitHub page, full of miscellaneous projects that I've put some time into over the years. 
 
