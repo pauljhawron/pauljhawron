@@ -32,9 +32,6 @@ Here are some of my repos and projects in a more organized way.
 ### Miscellaneous
 
 - [Solana API Test](https://github.com/pauljhawron/solana-api-test) | Experimenting with various Solana-based APIs in Python to brainstorm project ideas.
-- 
-
-
 
 
 ## 📊 My Stats
